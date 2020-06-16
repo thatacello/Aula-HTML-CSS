@@ -1,0 +1,44 @@
+body{
+    background: rgb(218, 217, 217);
+    margin: 32px;
+}
+
+header {
+    margin-top: 64px;
+}
+
+h1 {
+    color: rgb(70, 70, 70);
+    font-family: fantasy;
+    margin-top: 64px;
+}
+
+h2 {
+    color: rgb(70, 70, 70);
+    font-family: fantasy;
+    margin-top: 64px;
+}
+
+p{
+    color: rgb(70, 70, 70);
+    font-size: 18px;
+    font-family: fantasy;
+}
+
+img{
+    margin-top: 32px;
+}
+
+footer {
+    margin-top: 96px;
+}
+
+
+/* usamos . (ponto) para identificar a classe */
+
+.img_padrao {
+    margin-top: 32px;
+    margin-bottom: 64px;
+    width: 600px;
+}
+
